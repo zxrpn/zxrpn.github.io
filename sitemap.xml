@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
+        <loc>http://zxrm.cf/post-sitemap.xml</loc>
         <lastmod>2022-12-14T12:52:20.049Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>http://zxrm.cf/page-sitemap.xml</loc>
         <lastmod>2022-12-14T12:52:20.157Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
+        <loc>http://zxrm.cf/tag-sitemap.xml</loc>
         <lastmod>2022-12-14T12:52:20.049Z</lastmod>
     </sitemap>
 
